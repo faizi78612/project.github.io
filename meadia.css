@@ -1,0 +1,210 @@
+@media only screen and (max-width:1118px){
+    .container{
+        background-color: rgb(43, 231, 222);
+        height: 60vh;
+        width: 25vw;
+        margin: auto;
+        border:2px solid white;
+        border-radius: 8px;
+        margin-top: 15vh;
+    }
+    
+
+ .button{
+    height:6vh;
+    width:6vh;
+    background-color: rgb(4, 4, 58);
+    color: white;
+    border: 2px white solid;
+    border-radius: 100%;
+}
+
+
+input{
+    margin-top: 2vh;
+    margin-left: 25px;
+    width: 20vw;
+    height: 4vh;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+
+
+.line1{
+    margin-left: 3vw;
+    margin-top: 2vh;
+}
+.line2{
+    margin-left: 3vw;
+    margin-top: 1.5vh;
+}
+.line3{
+    margin-left: 3vw;
+    margin-top: 1.5vh;
+}
+.line4{
+    margin-left: 3vw;
+    margin-top: 1.5vh;
+}
+.line5{
+    margin-left: 3vw;
+    margin-top: 1.5vh;
+}
+
+
+
+@media only screen and (max-width:530px){
+    .container{
+        background-color: rgb(43, 231, 222);
+        height: 60vh;
+        width: 80vw;
+        margin: auto;
+        border:2px solid white;
+        border-radius: 8px;
+        margin-top: 3vh;
+    }
+    
+
+
+    .myname{
+        background-color: gray;
+        color: white;
+        border: 2px solid black;
+        border-radius: 7px;
+        width: 73vw;
+        height:3.5vh ;
+        margin-left: 3.5vw;
+        margin-top: 2vh;
+        text-align: center;
+        padding: 2px;
+    }
+
+ .button{
+    height:6.4vh;
+    width:6.4vh;
+    background-color: rgb(4, 4, 58);
+    color: white;
+    border: 2px white solid;
+    border-radius: 100%;
+}
+
+
+input{
+    margin-top: 1.5vh;
+    margin-left: 13px;
+    width: 73vw;
+    height: 4vh;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+
+
+.line1{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+.line2{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+.line3{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+.line4{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+.line5{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+@media only screen and (max-width:390px){
+    .container{
+        background-color: rgb(43, 231, 222);
+        height: 60vh;
+        width: 75vw;
+        margin: auto;
+        border:2px solid white;
+        border-radius: 8px;
+        margin-top: 15vh;
+    }
+
+    
+
+    .myname{
+        background-color: gray;
+        color: white;
+        border: 2px solid black;
+        border-radius: 7px;
+        width: 63vw;
+        height:3.5vh ;
+        margin-left: 5vw;
+        margin-top: 2vh;
+        text-align: center;
+        padding: 2px;
+    }
+
+    
+
+ .button{
+    height:6vh;
+    width:6vh;
+    background-color: rgb(4, 4, 58);
+    color: white;
+    border: 2px white solid;
+    border-radius: 100%;
+}
+
+
+input{
+    margin-top: 2vh;
+    margin-left: 20px;
+    width: 63vw;
+    height: 4vh;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+
+
+.line1{
+    margin-left: 10vw;
+    margin-top: 2vh;
+}
+.line2{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+.line3{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+.line4{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+.line5{
+    margin-left: 10vw;
+    margin-top: 1.5vh;
+}
+
+body{
+    height: 100vh;
+}
+
+}}
